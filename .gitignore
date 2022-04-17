@@ -1,0 +1,4 @@
+/target
+Cargo.lock
+/point_game_here/*.bin
+/point_game_here/screeps_arena_starter.js
